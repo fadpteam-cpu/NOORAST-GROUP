@@ -1,0 +1,9 @@
+This is the finished website as HTML.
+
+Netlify
+1. Unzip this file.
+2. Open the folder named noorast-html. You should see index.html in it.
+3. In Netlify, go to Deploys, then Deploy manually, and drag that folder onto the page.
+4. Do not set a build command. Do not upload the TypeScript project.
+
+If you still see Page not found, the wrong folder was uploaded. index.html has to be at the top of what you drag in.
